@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "/y8PX5SA7X2ZLxegjK3MHNMn/EInrHBbQZ1Cx7Zz6tI=",
+  "Source": "ECommerceAPI.Api",
+  "BasePath": "_content/ECommerceAPI.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerceAPI.Api/wwwroot",
+      "Source": "ECommerceAPI.Api",
+      "ContentRoot": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/wwwroot/",
+      "BasePath": "_content/ECommerceAPI.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/wwwroot/.DS_Store",
+      "SourceId": "ECommerceAPI.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/wwwroot/",
+      "BasePath": "_content/ECommerceAPI.Api",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
+      "Identity": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/wwwroot/photo/IMG20220903224023.jpg",
+      "SourceId": "ECommerceAPI.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/wwwroot/",
+      "BasePath": "_content/ECommerceAPI.Api",
+      "RelativePath": "photo/IMG20220903224023.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/photo/IMG20220903224023.jpg"
+    }
+  ]
+}
