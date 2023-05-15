@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jiF6OFV4JlbtjPwC/xZ7yFPsT5NcVVkeY3HyzJaGCUJ/j+yH/3U0PBk8lCOOMJiLXslqmnEiVwp/JAeFavVGXQ==",
+  "dgSpecHash": "s6LNRMWw/A+Mfs3TMqaup8wRa7EosZN5tNDU88seeLtf3M504gTtaobpJGKww3uVzWahqvF/7mHgikXldni83w==",
   "success": true,
-  "projectFilePath": "/Users/enescanyilmaz/Projects/ECommerceAPI/Core/ECommerceAPI.Domain/ECommerceAPI.Domain.csproj",
+  "projectFilePath": "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Core/ECommerceAPI.Domain/ECommerceAPI.Domain.csproj",
   "expectedPackageFiles": [
     "/Users/enescanyilmaz/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/Users/enescanyilmaz/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AyFqApeXFVlhIl3jRG9MFIuoiLnxfOBYh+FgW1fqAgEMlFyAg3/BwxxWtEO1a+6wPORICuo0wMxIv05xoJofRg==",
+  "dgSpecHash": "L6TU1VhZqOiDUISjWaVeTiiEStLaWNQGwfUwnzAoWOHfNm+2Cb0CvhunHhXVLwzUZLtm21JP78OMP/wTBFxjCA==",
   "success": true,
-  "projectFilePath": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/ECommerceAPI.Api.csproj",
+  "projectFilePath": "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Presentation/ECommerceAPI.Api/ECommerceAPI.Api.csproj",
   "expectedPackageFiles": [
     "/Users/enescanyilmaz/.nuget/packages/fluentvalidation/11.2.1/fluentvalidation.11.2.1.nupkg.sha512",
     "/Users/enescanyilmaz/.nuget/packages/fluentvalidation.aspnetcore/11.2.1/fluentvalidation.aspnetcore.11.2.1.nupkg.sha512",

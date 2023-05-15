@@ -6401,11 +6401,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/ECommerceAPI.Api.csproj",
+      "projectUniqueName": "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Presentation/ECommerceAPI.Api/ECommerceAPI.Api.csproj",
       "projectName": "ECommerceAPI.Api",
-      "projectPath": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/ECommerceAPI.Api.csproj",
+      "projectPath": "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Presentation/ECommerceAPI.Api/ECommerceAPI.Api.csproj",
       "packagesPath": "/Users/enescanyilmaz/.nuget/packages/",
-      "outputPath": "/Users/enescanyilmaz/Projects/ECommerceAPI/Presentation/ECommerceAPI.Api/obj/",
+      "outputPath": "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Presentation/ECommerceAPI.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/enescanyilmaz/.nuget/NuGet/NuGet.Config"
@@ -6420,11 +6420,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/enescanyilmaz/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/ECommerceAPI.Infrastructure.csproj": {
-              "projectPath": "/Users/enescanyilmaz/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/ECommerceAPI.Infrastructure.csproj"
+            "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/ECommerceAPI.Infrastructure.csproj": {
+              "projectPath": "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/ECommerceAPI.Infrastructure.csproj"
             },
-            "/Users/enescanyilmaz/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Persistence/ECommerceAPI.Persistence.csproj": {
-              "projectPath": "/Users/enescanyilmaz/Projects/ECommerceAPI/Infrastructure/ECommerceAPI.Persistence/ECommerceAPI.Persistence.csproj"
+            "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Infrastructure/ECommerceAPI.Persistence/ECommerceAPI.Persistence.csproj": {
+              "projectPath": "/Users/enescanyilmaz/Projects/MiniECommerceAPI/Infrastructure/ECommerceAPI.Persistence/ECommerceAPI.Persistence.csproj"
             }
           }
         }
@@ -6477,7 +6477,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.403/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
